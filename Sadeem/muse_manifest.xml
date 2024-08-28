@@ -1,0 +1,335 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sadeem.com" resolutions="1x" timestamp="1702718665491">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4156175652" ref="my-portfolio:my-skills:about-me:contact-me:index"/>
+    <file name="my-portfolio.css" crc="514910713" ref="my-portfolio"/>
+    <file name="my-skills.css" crc="4151240303" ref="my-skills"/>
+    <file name="about-me.css" crc="4175024178" ref="about-me"/>
+    <file name="contact-me.css" crc="311602057" ref="contact-me"/>
+    <file name="index.css" crc="4029258145" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="require.js" crc="4177726516" ref="index:about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="about-me:my-skills:my-portfolio:contact-me"/>
+    <file name="webpro.js" crc="3856315280" ref="my-skills:my-portfolio"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="my-skills:my-portfolio"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="my-skills:my-portfolio"/>
+    <file name="touchswipe.js" crc="3888935200" ref="my-skills:my-portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="menu shading 2.png" crc="204034651" seo="true" ref="index:about-me:my-skills:my-portfolio:contact-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:my-skills"/>
+    <file name="interaction mt logo graffiti copy.png" crc="3776354962" seo="true" ref="index:about-me:my-skills:my-portfolio:contact-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="smoke extended.jpg" crc="462966095" ref="index:about-me:my-skills:my-portfolio:contact-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="interaction mt title2.png" crc="4146283874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edited photoo رثصثق.png" crc="481773538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about me-21.png" crc="451186081" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-22.png" crc="3986987508" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-08.png" crc="242735628" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-09.png" crc="4047579594" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-10.png" crc="366514837" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-11.png" crc="3980650599" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-12.png" crc="4250476237" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-13.png" crc="22569427" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-14.png" crc="103416167" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-15.png" crc="4061065140" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-16.png" crc="221840516" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-17.png" crc="136047298" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-19.png" crc="319395864" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-24.png" crc="3995206127" seo="true" ref="about-me:my-portfolio">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="interaction final copy.png" crc="445856550" seo="true" ref="about-me:my-portfolio">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="about me-18.png" crc="4057145183" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction final.png" crc="135731130" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-11.png" crc="4247545815" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-05.png" crc="3848054134" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-12.png" crc="3947620558" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-13.png" crc="222623676" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-06.png" crc="3822578625" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-02.png" crc="391959251" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-07.png" crc="508713807" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-10.png" crc="119525632" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-09.png" crc="3850280372" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-03.png" crc="453552850" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-17.png" crc="3837421305" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-14.png" crc="4162281015" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-16.png" crc="4237779415" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-15.png" crc="154736037" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="interaction mt - about me-04.png" crc="322140698" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-06.png" crc="50654574" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="about me-07.png" crc="288436143" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="my skills illustration.png" crc="397844179" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills illustration blurred.png" crc="285752964" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-06.png" crc="333427635" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-07.png" crc="4092160325" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-12.png" crc="4143177848" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-13.png" crc="4190260817" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-14.png" crc="481168318" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-16.png" crc="4215066643" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-17.png" crc="189168212" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-26.png" crc="4103959680" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-27.png" crc="463111345" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-29.png" crc="137316997" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-08.png" crc="3906107468" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-09.png" crc="4168495595" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-10.png" crc="3865759940" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-11.png" crc="465439414" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-23.png" crc="4074299209" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-18.png" crc="4199644202" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-19.png" crc="16668778" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-20.png" crc="3907301551" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-21.png" crc="509691066" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="sadeem alkadi-202100778-assignment02-final.jpg" crc="4031060599" ref="my-skills"/>
+    <file name="illustration_type1 nike.png" crc="3907934981" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="mt islamic pattern.jpg" crc="521841209" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="illustration_type1 nike2.png" crc="3907934981" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="shading.png" crc="3892871293" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="frame my skills.png" crc="464098720" seo="true" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-33.png" crc="118501908" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-31.png" crc="4089885337" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-30.png" crc="4212962838" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my skills-32.png" crc="4249005504" ref="my-skills">
+      <caption webpage="my-skills" alt=""/>
+    </file>
+    <file name="my portfolio-06.png" crc="526753469" seo="true" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="my portfolio-07.png" crc="441698006" seo="true" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frame 1.jpg" crc="3817398249" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frame 2.jpg" crc="313815681" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frame 4.jpg" crc="4074761601" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frame 5.jpg" crc="261214260" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frame 6.jpg" crc="281510511" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="animal_assignemnt.jpg" crc="3984310852" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="illustration mt.jpg" crc="358326400" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="typo 2 mt.png" crc="4280006583" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="entrance sign mockup copy.jpg" crc="3808303344" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="screenshot 2023-12-12 at 81817 am.jpg" crc="3985422234" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="2d mt.jpg" crc="243845236" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frames portfolio-08.png" crc="118715322" seo="true" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="frames portfolio-09.png" crc="144262395" seo="true" ref="my-portfolio">
+      <caption webpage="my-portfolio" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+      <caption webpage="my-portfolio" alt=""/>
+    </file>
+    <file name="contact me-06.png" crc="3937115776" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact me-08.png" crc="4218098898" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact me-09.png" crc="4254589719" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact me-10.png" crc="17618668" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact me-11.png" crc="4163432727" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact me-12.png" crc="269248998" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact me-07.png" crc="3893910436" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="contact us.png" crc="348304935" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="422511659" seo="true" mt="1702378833586" redirect="true"/>
+  <file name="about-me.html" crc="4028540648" seo="true" mt="1702400823062" redirect="true"/>
+  <file name="my-skills.html" crc="4103088247" seo="true" mt="1702378845054" redirect="true"/>
+  <file name="my-portfolio.html" crc="157861138" seo="true" mt="1702378922901" redirect="true"/>
+  <file name="contact-me.html" crc="297488304" seo="true" mt="1702378868481" redirect="true"/>
+</manifest>
